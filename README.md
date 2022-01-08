@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amiettle
+- 👀 I’m interested in computer science and design
+- 🌱 I’m currently learning human and computer interaction
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me: amiettle@gmail.com
