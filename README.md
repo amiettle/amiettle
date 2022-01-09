@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @amiettle
+- 👋 Hi, I’m a 3rd year Informatics major @ UCI
 - 👀 I’m interested in computer science and design
 - 📫 How to reach me: amiettle@gmail.com
