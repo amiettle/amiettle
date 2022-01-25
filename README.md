@@ -7,6 +7,8 @@ I’m a 3rd year Informatics major at UC Irvine, and I was born + raised in Oran
 
 Lets connect!
 
-📬 [Email](amiettle@gmail.com)
+📬 [Email](mailto:amiettle@gmail.com)
 
 🌱 [Linkedin](https://www.linkedin.com/in/amiettle/)
+
+Check out my portfolio: [amiettle.com](www.amiettle.com)
