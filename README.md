@@ -11,4 +11,4 @@ Lets connect!
 
 🌱 [Linkedin](https://www.linkedin.com/in/amiettle/)
 
-Check out my portfolio: [amiettle.com](www.amiettle.com)
+Check out my portfolio: [amiettle.com](https://www.amiettle.com)
